@@ -5,6 +5,8 @@
  * @package component_s
  */
 
+/* This is a new comment! */
+
 get_header(); ?>
 
 	<div id="primary" class="content-area">
